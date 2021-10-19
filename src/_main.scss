@@ -1,0 +1,13 @@
+th,tr,td{
+  border:$tr-border;
+  text-align: center;
+  height: $tr-height;
+  vertical-align: middle;
+}
+table {
+  table-layout:fixed
+}
+select,input{
+  height: 35px;
+  width: 80%;
+}
